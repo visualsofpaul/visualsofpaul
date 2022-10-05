@@ -1,6 +1,6 @@
 ## Hi, I'm Paul 👋
 
-I'm a passionate developer and designer. I am currently studying media computer science at the University of Applied Sciences Cologne and am also trying to found my own company.
+I'm a passionate <b>developer</b> and <b>designer</b>. I am currently studying <b>media computer science</b> at the <b>University of Applied Sciences Cologne</b> and am also trying to found my own company.
 
 
 ### Languages and tools:
