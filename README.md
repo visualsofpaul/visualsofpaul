@@ -7,10 +7,10 @@
   <!-- Often used -->
   
   <!-- Figma -->
-  <img style="float: left;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
+  <img style="display: inline; float: left;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
   
   <!-- VSCode -->
-  <img style="float: left;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
+  <img style="display: inline; float: left;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
   
   <!-- Git -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
