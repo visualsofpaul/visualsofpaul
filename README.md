@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi, I'm Paul 👋
 
-## Languages and tools I use
+I'm a passionate developer and designer. I am currently studying media computer science at the University of Applied Sciences Cologne and am also trying to found my own company.
 
+
+### Languages and tools:
   
 <!-- Often used -->
 
