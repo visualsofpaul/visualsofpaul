@@ -1,48 +1,7 @@
-## Hi, I'm Paul 👋
+# Hi 👋, I'm Paul
+### Computer Science Student and Developer
 
-I'm a passionate <b>developer</b> and <b>designer</b>. I am currently studying <b>media computer science</b> at the <b>University of Applied Sciences Cologne</b> and am also trying to found my <b>own company</b>.
-
-
-### Languages and tools:
-  
-<!-- Often used -->
-
-<!-- Figma -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>
-
-<!-- VSCode -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>
-
-<!-- Git -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>
-
-<!-- HTML -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="30" height="30"/>
-
-<!-- CSS -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="30" height="30"/>
-
-<!-- Sass -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="30" height="30"/>
-
-<!-- Javascript -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="30" height="30"/>
-
-<!-- NodeJS -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>
-
-<!-- PHP -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="30" height="30"/>
-
-
-<!-- Sometimes used -->
-
-<!-- C -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="30" height="30"/>
-
-<!-- Java -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>
-
-<!-- Kotlin -->
-<img align="left" style="padding-right: 10px; padding-bottom: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="30" height="30"/>
-
+- 🔭 I'm currently working on [@BuyItFair](https://github.com/BuyItFair-GitHub)
+- 🪴 I'm based in Germany
+- 📷 Visit me on my [Instagram](https://www.instagram.com/visualsofpaul/)
+- 📫 Feel free to contact me
