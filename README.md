@@ -16,6 +16,7 @@ class About extends Me {
     public function getLanguages(): array {
         return [
             Php::class,
+            Astro::class,
             Javascript::class,
             Typescript::class,
             Vuejs::class,
