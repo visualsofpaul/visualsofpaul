@@ -1,30 +1,3 @@
-```php
-<?php
-
-namespace VisualsOfPaul;
-
-class About extends Me {
-    public function getCurrentWork(): array {
-        return [
-            'work' => [
-                'company' => 'BuyItFair',
-                'positions' => ['Founder', 'CEO', 'Developer', 'Designer']      
-            ]
-        ];
-    }
-
-    public function getLanguages(): array {
-        return [
-            Php::class,
-            Astro::class,
-            Javascript::class,
-            Typescript::class,
-            Vuejs::class,
-            Scss::class,
-            Css::class
-        ];
-    }
-}
-
-?>
-```
+<div style="width: 100%;">
+    <img src="./assets/readme.svg" style="width: 100%;">
+</div>
