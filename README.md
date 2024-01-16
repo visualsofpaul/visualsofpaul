@@ -20,3 +20,4 @@ Here are some of the technologies I'm working with.
 ![Static Badge](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23CC6699&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23000000)
+
