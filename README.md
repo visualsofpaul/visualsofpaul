@@ -1,12 +1,11 @@
-# Hi, I'm Paul 👋
+## 👋 Hey, I'm Paul
 
-I'm a fullstack developer and designer from Germany.
+I am a full-stack developer and designer from Germany.
 
-## About me
+- I'm currently studying computer science at the University of Applied Sciences in Cologne
+- As co-founder of [BuyItFair](https://www.buyitfair.de), I create digital solutions for businesses and individuals
 
-I'm currently studying computer science at the University of Applied Sciences in Cologne. I'm also working as a freelancer as a part-time job. If you want to know more about me, feel free to contact me.
-
-## My skills
+## 📦 My skillset
 
 Here are some of the technologies I'm working with.
 
@@ -20,3 +19,7 @@ Here are some of the technologies I'm working with.
 ![Static Badge](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23FFFFFF&labelColor=hsl(330%2C%2050%25%2C%2050%25))
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23FFFFFF&labelColor=hsl(205%2C%2079%25%2C%2030%25))
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&labelColor=hsl(13%2C%2077%25%2C%2042%25))
+
+## 📫 Get in touch
+
+For a quick response, you can reach me via [LinkedIn](https://www.linkedin.com/in/visualsofpaul/).
