@@ -11,11 +11,11 @@ I'm a passionate developer and designer with a focus on creating modern, user-fr
 
 ### Some of the technologies I enjoy working with
 
-- **_Astro_** for building fast, modern websites
-- **_Vue.js_** for creating interactive user interfaces
-- **_JavaScript_** and **_TypeScript_** for writing clean, maintainable code
-- **_Sass_** and **_CSS_** for styling web applications
-- **_Node.js_** and **_PHP_** for server-side development
+- I'm using **_Astro_** for building fast, modern websites.
+- I'm using **_Vue.js_** for creating interactive user interfaces.
+- I'm using **_JavaScript_** and **_TypeScript_** for writing clean, maintainable code.
+- I'm using **_Sass_** and **_CSS_** for styling web applications.
+- I'm using **_Node.js_** and **_PHP_** for server-side development.
 
 ### Get in touch
 
