@@ -8,7 +8,6 @@ I'm a passionate developer and designer with a focus on creating modern, user-fr
 
 - I'm currently studying media computer science at the University of Applied Sciences in Cologne, Germany.
 - As co-founder of [BuyItFair](https://www.buyitfair.de), I create digital solutions for businesses and individuals.
-- As a founding member and CTO at [Accesstra](https://www.accesstra.tech), I work to make digital resources accessible to everyone.
 
 ### Some of the technologies I enjoy working with
 
